@@ -28,3 +28,27 @@
      Sites que usam verde, podem estar querendo representar paz, natureza e verdades, dinheiro e sorte, mas também te leva a inveja e nojo. por exemplo o site do <a href="https://greenpeace.org/">GreenPiece</a>.
    * <ins>Monocromia</ins><br>
      Monocromia é o uso de varias cores iguais porém em tonalidades diferentes.
+### Aula #2 (Curso em Video)
+ * Harmonia de Cores
+   * <ins>Circulo Cromático</ins><br>
+     Basicamente é a combinação de varias cores(Todas as cores do mundo), ele serve para criar e desenvolver a harmonização das cores. E a cromácia é a percepção de um sentimento interno e inconciente despertado por um ser humano com base nas cores, como por exemplo: Amor, Raiva, Alegria, Nojo e etc.. Todos esses sentimentos podem ser despertados inconcientemente por cores. Dentro de um site o circulo cromático é feito para sabe se uma cor é compativél com outra
+   * <ins>Hierarquia de Cores</ins><br>
+     As cores primárias são:
+     * Vermelho
+     * Azul
+     * Amarelo
+     As cores secundárias são:
+     * Laranja
+     * Violeta
+     * Verde
+     As cores terciárias são:
+     * Todas as cores que são misturas das cores secundárias ou primárias. Como por exemplo o vermelho-arroxeado, que basicamente é a mistura de vermelho com violeta.
+   * <ins>Temperatura das cores</ins><br>
+     Basicamente a temperatura das cores, cores frias, cores quente e cores neutras
+     * Cores Frias representam cores que fazem o ser humano ter a percepção e sentimento de temperatura fria vindo das cores.
+     * Cores Quentes representam o exato contrario das cores frias, fazem o ser humano enxergar o sentimento de calor.
+     * Cores Neutras não apresentam nenhum tipo de percepção, são elas: preto, cinza e branco. Além disso a mistura dessa cores não podem chegar a cores quentes ou frias.
+   * <ins>Cores Complementares</ins><br>
+     Cores complementares, são cores que combinam entre si, basta traçar uma linha reta entre as cores no circulo cromático
+   * <ins>Cores Analogas</ins><br>
+     É a similaridade(NÃO É CONTRASTE) entre cores vizinhas a ela, geralmente é usada em conjunto com as cores complementares, pegando as cores vizinhas as cores e ainda sim traçando uma linha reta a partir da cor principal.
