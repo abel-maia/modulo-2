@@ -25,4 +25,6 @@
    * <ins>Sites com cinza e marrom:</ins><br>
      Sites com cinza e marrom podem representar coisas mais premiun e mais rusticas.
    * <ins>Sites que usam verde:</ins><br>
-     Sites que usam verde, podem estar querendo representar paz, natureza e verdades. por exemplo o site do <a href="https://greenpeace.org/">GreenPiece</a>
+     Sites que usam verde, podem estar querendo representar paz, natureza e verdades, dinheiro e sorte, mas também te leva a inveja e nojo. por exemplo o site do <a href="https://greenpeace.org/">GreenPiece</a>.
+   * <ins>Monocromia</ins><br>
+     Monocromia é o uso de varias cores iguais porém em tonalidades diferentes.
