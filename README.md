@@ -25,4 +25,4 @@
    * <ins>Sites com cinza e marrom:</ins><br>
      Sites com cinza e marrom podem representar coisas mais premiun e mais rusticas.
    * <ins>Sites que usam verde:</ins><br>
-     Sites que usam verde, podem estar querendo representar paz, natureza e verdades. por exemplo o site do <a href="https://greenpiece.org/">GreenPiece</a>
+     Sites que usam verde, podem estar querendo representar paz, natureza e verdades. por exemplo o site do <a href="https://greenpeace.org/">GreenPiece</a>
