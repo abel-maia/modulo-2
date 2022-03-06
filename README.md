@@ -20,3 +20,9 @@
        <a href="https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/13%20-%20Cores.pdf">cores.pdf</a>
    * <ins>Sites com letras brancas e fundo preto:</ins><br>
      Uma coisa que é importante saber sobre isso é que sites com fundo preto e letras brancas causam um cansaço muito exagerano na pessoa que está lendo ele, por isso evite colocar textos muito grandes e procure sempre resumir coisas.
+   * <ins>Sites com amarelo e vermelho:</ins><br>
+     Sites com a combinação de amarelo e vermelho, geralmente são sites relacionados a alimenteção como por exemplo o site do <a href="https://mcdonalds.com/">Mc Donalds.</a>
+   * <ins>Sites com cinza e marrom:</ins><br>
+     Sites com cinza e marrom podem representar coisas mais premiun e mais rusticas.
+   * <ins>Sites que usam verde:</ins><br>
+     Sites que usam verde, podem estar querendo representar paz, natureza e verdades. por exemplo o site do <a href="https://greenpiece.com/">GreenPiece</a>
