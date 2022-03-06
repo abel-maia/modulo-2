@@ -48,7 +48,17 @@
      * Cores Frias representam cores que fazem o ser humano ter a percepção e sentimento de temperatura fria vindo das cores.
      * Cores Quentes representam o exato contrario das cores frias, fazem o ser humano enxergar o sentimento de calor.
      * Cores Neutras não apresentam nenhum tipo de percepção, são elas: preto, cinza e branco. Além disso a mistura dessa cores não podem chegar a cores quentes ou frias.
-   * <ins>Cores Complementares</ins><br>
+  * <ins>Cores</ins> 
+     * <ins>Cores Complementares</ins><br>
      Cores complementares, são cores que combinam entre si, basta traçar uma linha reta entre as cores no circulo cromático
-   * <ins>Cores Analogas</ins><br>
+     * <ins>Cores Analogas</ins><br>
      É a similaridade(NÃO É CONTRASTE) entre cores vizinhas a ela, geralmente é usada em conjunto com as cores complementares, pegando as cores vizinhas as cores e ainda sim traçando uma linha reta a partir da cor principal.
+     * <ins>Cores Analogas Relacionadas</ins><br>
+     Basicamente um contraste de cores que não é tão forte, mas ainda sim é agradavél aos nossos olhos.
+   * <ins>Monocromia</ins><br>
+     É uma cor do circulo cromático, que basicamente você altera a saturação e luminosidade de uma cor.
+       
+
+
+
+
