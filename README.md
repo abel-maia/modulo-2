@@ -15,8 +15,8 @@
      Você tem que entender que cada cor tem seu significado e sentimento, e esses sentimentos são buscados inconcientemente na mente do ser humano que vê essa cor, assim ele pode enternder algumas coisas, como por exemplo:
        * Azul: Competencia, Sabedoria, Calma, Confiança, Proficionalismo, Integridade e Segurança. Alem de ser a cor mais aceita do mundo, com 46% de aprovação e favoritismo, e tem a menor taxa de rejeição. Então qual empresa não quer isso?
        * Vermelho: Amor, Emoção, Energia, Porém a cor vermelha está relacionada a emoções e sentimentos ruins, como por exemplo: Raiva, Perigo e etc... O vermelho está geralmente sendo usado em sites de comida, moda, entretenimento, serviços de emergencia e saúde.
-       * Amarelo: Felicidade, Alegria, Otimismo mas também ligado a covardia, pode indicar algo barato ou desleixado, usar amarelo somente para dar luz, dar calma, e felicidade ou chamar atenção.
-       O resto pega no pdf do Gustavo Guanabara sobre teoria e psicologia das cores:
+       * Amarelo: Felicidade, Alegria, Otimismo mas também ligado a covardia, pode indicar algo barato ou desleixado, usar amarelo somente para dar luz, dar calma, e felicidade ou chamar atenção.<br>
+       O resto pega no pdf do Gustavo Guanabara sobre teoria e psicologia das cores:<br>
        <a href="https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/13%20-%20Cores.pdf">cores.pdf</a>
    * <ins>Sites com letras brancas e fundo preto:</ins><br>
      Uma coisa que é importante saber sobre isso é que sites com fundo preto e letras brancas causam um cansaço muito exagerano na pessoa que está lendo ele, por isso evite colocar textos muito grandes e procure sempre resumir coisas.
